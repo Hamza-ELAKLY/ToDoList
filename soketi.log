@@ -1,0 +1,22 @@
+Debugger listening on ws://127.0.0.1:53780/33331077-291d-4b00-ba4c-81b1d67ece8b
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+
+  [36m🕵️‍♂️ Initiating metrics endpoints...[39m  
+
+  [1m[30m[42m 🎉 Server is up and running! [49m[39m[22m  
+  [1m[30m[42m 📡 The Websockets server is available at 127.0.0.1:6001 [49m[39m[22m  
+  [1m[30m[42m 🔗 The HTTP API server is available at http://127.0.0.1:6001 [49m[39m[22m  
+  [1m[30m[42m 🎊 The /usage endpoint is available on port 9601. [49m[39m[22m  
+
+(node:65464) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil
+(Use `node --trace-warnings ...` to show where the warning was created)
+
+  [33m🚫 New users cannot connect to this instance anymore. Preparing for signaling...[39m  
+  [33m⚡ The server is closing and signaling the existing connections to terminate.[39m  
+
+Waiting for the debugger to disconnect...
